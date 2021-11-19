@@ -11,6 +11,7 @@ glue = {"stepdefs"}, monochrome = true, dryRun = false, plugin = {"pretty", "htm
 		//"usage:target/reports/usageReport", "json:target/reports/jsonReport.json",
 		//"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 		} )
+//pretty - to generate cloud reports
 
 public class CRMRunner extends AbstractTestNGCucumberTests  {
 
